@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"45df639ce09f3b5c","x":-700,"y":-660,"width":1011,"height":758,"type":"file","file":"SŠ/RVP/Slike/Drawing 2025-11-06 20.06.52.excalidraw.md"},
+		{"id":"4cbae43faa82f786","x":-700,"y":98,"width":1011,"height":122,"type":"text","text":"- Na primeru tega vezja bi če bi bila vhodna vrednost spremenljiva torej 0V -> 5V bi z razdelilnikom videli spreminjanje prižigov lučk glede na napetost ki pride na določenem potencialu.\n- npr. če nastavimo Uv na 3V se bo prižgala samo 1 luč saj je samo tam Ud(V+ - V-) > 0"}
+	],
+	"edges":[]
+}

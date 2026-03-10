@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"7e7add0f5deea22d","type":"file","file":"SŠ/RVP/Slike/Drawing 2025-11-06 23.06.19.excalidraw.md","x":-860,"y":-660,"width":1440,"height":1060},
+		{"id":"dd398fdd1751d008","type":"file","file":"SŠ/RVP/Pomožne/Itegrator.md","x":-140,"y":400,"width":720,"height":1300},
+		{"id":"1ec1b4fd32ff69aa","type":"text","text":"- Torej s napajanjem pozitivne napetosti v inegrator bomo premikali naš Uizh navzdol in z napajanjem negativne napetosti bomo Uizh potiskali navzgor GRAF:2\n- Torej bomo naredili žagast signal na Uizh\n \n \n \n \n \n \n \n \n \n \n\n- Lahko napišemo kot integral:$$\\begin{align} f(x)= \\int{kdx}=kx \\\\ U_{vh}=kx=\\frac{ x^2} 2 +C \\\\\nU_{vh}=kx^n =\\frac{x^n}n+C\\end{align}$$\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Torej s povečavo x in njegovega exponenta povečamo se bo spremenila oblika našega Uizh ki je pri normalnem x^2 -> linearna in izgleda kot žaga se bo pri x^3 spremenila v kvadratno in pri x^4 v kubo.","x":-860,"y":400,"width":720,"height":1300}
+	],
+	"edges":[]
+}

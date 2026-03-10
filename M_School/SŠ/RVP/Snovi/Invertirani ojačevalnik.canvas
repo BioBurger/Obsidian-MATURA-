@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"09970c8cfd6b415b","x":-720,"y":-660,"width":1365,"height":1050,"type":"file","file":"SŠ/RVP/Slike/Drawing 2025-11-06 20.16.45.excalidraw.md"},
+		{"id":"1bfc987bf9a7f332","x":-720,"y":390,"width":1365,"height":650,"type":"text","text":"## Ključne značilnosti:\n\n- **Signal na izhodu je v protifazi** z vhodnim: če vhod naraste pozitivno, izhod zmanjša vrednost (in obratno).\n    \n- Moč signala (ojačanje) je natančno določena z razmerjem uporov v vezju.\n    \n- Temeljno deluje zaradi **negativne povratne vezave**: del izhodnega signala se prek povratnega upora vrne na invertirajoči vhod, kar stabilizira delovanje in določa ojačanje.\n    \n\n## Osnovna shema vezja:\n\n- **R1**: vhodni upor, preko katerega pripeljemo vhodno napetost VinVin na (-) vhod.\n    \n- **Rf** (ali **R2**): povratni upor, ki povezuje (-) vhod z izhodom ojačevalnika.\n    \n- **+ vhod**: ozemljen.\n    \n\n## Enačba napetostnega ojačanja (Av):\n\nAv=VoutVin=−RfR1Av=VinVout=−R1Rf\n\n- Negativen predznak pomeni **obrat faze**.\n    \n- Ojačanje je odvisno samo od razmerja uporov RfRf (feedback) in R1R1 (vhodni upor).\n    \n\n## Povzetek obnašanja:\n\n- Če je Rf=R1Rf=R1, je ojačenje −1−1: izhod je enako velik kot vhod, a v protifazi.\n    \n- Večji kot je RfRf proti R1R1, večje je ojačanje (negativno)."}
+	],
+	"edges":[]
+}

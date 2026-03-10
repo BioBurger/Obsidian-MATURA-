@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"890e41c7ccb2846f","type":"text","text":"1. **Vhodni signal** majhne amplitude vstopi v ojačevalnik.\n    \n2. Z **aktivnimi elementi** (npr. tranzistorji) se signal napetostno ojača.\n    \n3. **Izstopi** ojačan na izhodu, pripravljen za napajanje naslednjih stopenj ali končnih porabnikov.\n    \n\n- Napetostni ojačevalniki se masovno uporabljajo v avdio vezjih, merilnih napravah in komunikacijskih napravah zaradi sposobnosti natančnega ojačanja šibkih signalov.","x":-640,"y":143,"width":1290,"height":177},
+		{"id":"4eed20b63e2ffb58","type":"file","file":"SŠ/RVP/Pomožne/Primerjalnik napetosti GRAF.md","x":-640,"y":320,"width":1290,"height":620},
+		{"id":"25a5f60147b4100a","type":"file","file":"SŠ/RVP/Slike/Drawing 2025-11-06 19.50.41.excalidraw.md","x":-640,"y":-680,"width":1290,"height":823}
+	],
+	"edges":[]
+}
