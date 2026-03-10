@@ -1,4 +1,5 @@
-	- Kompleksna števila razširijo realna z imaginarno enoto $i$, kjer $i^2=-1$
+Kompleksna števila razširijo realna z imaginarno enoto $i$, kjer $i^2=-1$
+	
 
 ## Osnovna oblika
 $$z = a + bi, \quad a,b \in \mathbb{R}$$
