@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Integrali.md",
+                "file": "SŠ/MAT/Vektorji.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrali"
+              "title": "Vektorji"
             }
           }
         ]
@@ -206,8 +206,13 @@
   },
   "active": "8a554858d89911a3",
   "lastOpenFiles": [
-    "SŠ/MAT/Integrali.md",
+    "SŠ/MAT/Vektorji.md",
     "SŠ/MAT/Mature/2010 Spomladanski.md",
+    "SŠ/MAT/Preslikave — 2D geometrija.md",
+    "SŠ/MAT/Liki — 2D geometrija.md",
+    "SŠ/MAT/Telesa — 3D geometrija.md",
+    "SŠ/MAT/Integrali.md",
+    "Pasted Image 20260310200021_543.png",
     "SŠ/MAT/Kombinacije.md",
     "Pasted Image 20260310191721_498.png",
     "Pasted Image 20260310185547_859.png",
@@ -217,7 +222,6 @@
     "SŠ/MAT/Aritmetično zaporedje.md",
     "SŠ/MAT/Kombinatorika.md",
     "SŠ/MAT/Verjetnostni račun.md",
-    "SŠ/MAT/Vektori.md",
     "Pasted Image 20260310183930_155.png",
     "Pasted Image 20260310183728_915.png",
     "SŠ/MAT/Stožnice.md",
@@ -227,7 +231,6 @@
     "SŠ/MAT/Bernoullijeva-formula.md",
     "Pasted Image 20260310181619_220.png",
     "Pasted Image 20260310181217_367.png",
-    "Pasted Image 20260310180806_813.png",
     "SŠ/MAT/Pomožne/Drawing 2026-03-10 17.50.44.excalidraw.md",
     "SŠ/MAT/Mature",
     "SŠ/MAT/Pomožne/Untitled.md",
@@ -248,8 +251,6 @@
     "SŠ/RVP/Snovi/Invertirani ojačevalnik.canvas",
     "SŠ/RVP/Snovi/Integrator.canvas",
     "SŠ/RVP/Snovi/3 bitni D-A pretvornik tokovni seštevalnik.canvas",
-    "SŠ/RVP/Pomožne/tabela 3bitni.md",
-    "SŠ/RVP/Pomožne/Schmitt trigger tabela.md",
     "SŠ/FIZ",
     "SŠ/RVP.zip",
     "SŠ.zip",
