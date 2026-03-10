@@ -8,18 +8,18 @@ kjer je $F'(x)=f(x)$ in $C\in\mathbb{R}$ integralna konstanta.
 
 ## Tabela osnovnih integralov
 
-| Funkcija $f(x)$ | Integral $\int f(x)\,dx$ |
-|---|---|
-| $x^n\ (n\neq-1)$ | $\dfrac{x^{n+1}}{n+1}+C$ |
-| $\dfrac{1}{x}$ | $\ln|x|+C$ |
-| $e^x$ | $e^x+C$ |
-| $a^x$ | $\dfrac{a^x}{\ln a}+C$ |
-| $\sin x$ | $-\cos x+C$ |
-| $\cos x$ | $\sin x+C$ |
-| $\dfrac{1}{\cos^2 x}$ | $\tan x+C$ |
-| $\dfrac{1}{\sin^2 x}$ | $-\cot x+C$ |
-| $\dfrac{1}{\sqrt{1-x^2}}$ | $\arcsin x+C$ |
-| $\dfrac{1}{1+x^2}$ | $\arctan x+C$ |
+| Funkcija $f(x)$           | Integral $\int f(x)\,dx$   |     |     |
+| ------------------------- | -------------------------- | --- | --- |
+| $x^n\ (n\neq-1)$          | $\dfrac{x^{n+1}}{n+1}+C$   |     |     |
+| $\dfrac{1}{x}$            | $$\ln \lvert x \lvert +C$$ |     |     |
+| $e^x$                     | $e^x+C$                    |     |     |
+| $a^x$                     | $\dfrac{a^x}{\ln a}+C$     |     |     |
+| $\sin x$                  | $-\cos x+C$                |     |     |
+| $\cos x$                  | $\sin x+C$                 |     |     |
+| $\dfrac{1}{\cos^2 x}$     | $\tan x+C$                 |     |     |
+| $\dfrac{1}{\sin^2 x}$     | $-\cot x+C$                |     |     |
+| $\dfrac{1}{\sqrt{1-x^2}}$ | $\arcsin x+C$              |     |     |
+| $\dfrac{1}{1+x^2}$        | $\arctan x+C$              |     |     |
 
 ## Pravila integriranja
 
