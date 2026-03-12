@@ -33,12 +33,14 @@
             "id": "8a554858d89911a3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Mature/2010 Spomladanski.md"
+                "file": "SŠ/MAT/Normalna-porazdelitev.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2010 Spomladanski"
+              "icon": "lucide-file",
+              "title": "Normalna-porazdelitev"
             }
           }
         ]
@@ -204,12 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95b0527032722327",
+  "active": "8a554858d89911a3",
   "lastOpenFiles": [
-    "SŠ/MAT/Vektorji.md",
-    "SŠ/MAT/Kompleksna števila.md",
-    "SŠ/MAT/Kompleksna števil.md",
     "SŠ/MAT/Mature/2010 Spomladanski.md",
+    "SŠ/MAT/Kompleksna števila.md",
+    "SŠ/MAT/Vektorji.md",
+    "SŠ/MAT/Kompleksna števil.md",
     "Pasted Image 20260310223055_414.png",
     "SŠ/MAT/Preslikave — 2D geometrija.md",
     "SŠ/MAT/Liki — 2D geometrija.md",
