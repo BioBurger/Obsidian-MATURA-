@@ -41,8 +41,8 @@ $$f_i^{\text{rel}}=\frac{f_i}{n}, \qquad \sum f_i^{\text{rel}}=1$$
 ### Frekvenčna tabela
 
 | Vrednost $x_i$ | Frekvenca $f_i$ | Rel. frekvenca $f_i^{\text{rel}}$ | Kum. frekvenca |
-|---|---|---|---|
-| ... | ... | ... | ... |
+| -------------- | --------------- | --------------------------------- | -------------- |
+| ...            | ...             | ...                               | ...            |
 
 ### Grafični prikazi
 - **Stolpčni diagram**: diskretni podatki
