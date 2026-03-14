@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Statistika.md",
+                "file": "SŠ/MAT/Geometrisko zaporedje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistika"
+              "title": "Geometrisko zaporedje"
             }
           }
         ]
@@ -186,22 +186,25 @@
   },
   "active": "8a554858d89911a3",
   "lastOpenFiles": [
+    "SŠ/MAT/Aritmetično zaporedje.md",
+    "SŠ/MAT/Logika in izjave.md",
+    "SŠ/MAT/Funkcije.md",
+    "SŠ/MAT/Eksponentna in logaritemska funkcija.md",
+    "SŠ/MAT/Zaporedje.md",
+    "SŠ/MAT/Indukcija.md",
+    "SŠ/MAT/Permuntacije.md",
+    "SŠ/MAT/Preslikave — 2D geometrija.md",
+    "SŠ/MAT/Statistika.md",
     "SŠ/MAT/Množice in številske množice.md",
     "SŠ/MAT/Normalna-porazdelitev.md",
-    "SŠ/MAT/Logika in izjave.md",
-    "SŠ/MAT/Statistika.md",
-    "SŠ/MAT/Eksponentna in logaritemska funkcija.md",
     "SŠ/MAT/Kotne funkcije.md",
-    "SŠ/MAT/Funkcije.md",
     "SŠ/MAT/Bernoullijeva-formula.md",
     "SŠ/MAT/Verjetnostni račun.md",
-    "SŠ/MAT/Indukcija.md",
     "SŠ/MAT/Kompleksna števila.md",
     "SŠ/MAT/Mature/2010 Spomladanski.md",
     "SŠ/MAT/Vektorji.md",
     "SŠ/MAT/Kompleksna števil.md",
     "Pasted Image 20260310223055_414.png",
-    "SŠ/MAT/Preslikave — 2D geometrija.md",
     "SŠ/MAT/Liki — 2D geometrija.md",
     "SŠ/MAT/Telesa — 3D geometrija.md",
     "SŠ/MAT/Integrali.md",
@@ -211,8 +214,6 @@
     "Pasted Image 20260310185547_859.png",
     "SŠ/MAT/Variacije.md",
     "Pasted Image 20260310184843_866.png",
-    "SŠ/MAT/Permuntacije.md",
-    "SŠ/MAT/Aritmetično zaporedje.md",
     "SŠ/MAT/Kombinatorika.md",
     "Pasted Image 20260310183930_155.png",
     "Pasted Image 20260310183728_915.png",
@@ -222,7 +223,6 @@
     "Pasted Image 20260310181619_220.png",
     "SŠ/MAT/Pomožne/Drawing 2026-03-10 17.50.44.excalidraw.md",
     "SŠ/MAT/Mature",
-    "SŠ/MAT/Pomožne/Untitled.md",
     "SŠ/RVP/Snovi/Preprosta naloga.canvas",
     "SŠ/RVP/Snovi/Ojačevalnik osnove.canvas",
     "SŠ/RVP/Snovi/Neivertirani ojačevalnik.canvas",
