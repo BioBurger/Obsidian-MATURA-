@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "92815a1f7d406c17",
+        "id": "bb98bbf153284b12",
         "type": "tabs",
         "children": [
           {
-            "id": "8a554858d89911a3",
+            "id": "47712a3f2dc46bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SŠ/MAT/Geometrisko zaporedje.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Geometrisko zaporedje"
+              "title": "New tab"
             }
           }
         ]
@@ -184,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a554858d89911a3",
+  "active": "47712a3f2dc46bae",
   "lastOpenFiles": [
+    "SŠ/SLO/Slovenščina – Slovnica za Poklicno Maturo.md",
+    "SŠ/SLO",
+    "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md",
+    "SŠ/MAT/Geometrisko zaporedje.md",
     "SŠ/MAT/Aritmetično zaporedje.md",
     "SŠ/MAT/Logika in izjave.md",
     "SŠ/MAT/Funkcije.md",
@@ -214,14 +214,11 @@
     "Pasted Image 20260310185547_859.png",
     "SŠ/MAT/Variacije.md",
     "Pasted Image 20260310184843_866.png",
-    "SŠ/MAT/Kombinatorika.md",
     "Pasted Image 20260310183930_155.png",
     "Pasted Image 20260310183728_915.png",
-    "SŠ/MAT/Stožnice.md",
     "Pasted Image 20260310182118_313.png",
     "Pasted Image 20260310181943_280.png",
     "Pasted Image 20260310181619_220.png",
-    "SŠ/MAT/Pomožne/Drawing 2026-03-10 17.50.44.excalidraw.md",
     "SŠ/MAT/Mature",
     "SŠ/RVP/Snovi/Preprosta naloga.canvas",
     "SŠ/RVP/Snovi/Ojačevalnik osnove.canvas",
@@ -239,7 +236,6 @@
     "SŠ/RAO.zip",
     "SŠ/RAO/Padding",
     "SŠ/RAO",
-    "Excalidraw",
     "SŠ/MAT/Untitled.canvas",
     "SŠ/RVP/Snovi/Schmitt trigger.canvas"
   ]
