@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb98bbf153284b12",
+        "id": "4a267c0ff6b1a1a9",
         "type": "tabs",
         "children": [
           {
-            "id": "47712a3f2dc46bae",
+            "id": "30f5d216ace34f26",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47712a3f2dc46bae",
+  "active": "30f5d216ace34f26",
   "lastOpenFiles": [
     "SŠ/SLO/Slovenščina – Slovnica za Poklicno Maturo.md",
     "SŠ/SLO",
