@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Modul 3 – Protocols and Models"
             }
+          },
+          {
+            "id": "38102be2e9330652",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30f5d216ace34f26",
+  "active": "38102be2e9330652",
   "lastOpenFiles": [
     "SŠ/NIK/Modul 4 – Physical Layer.md",
     "SŠ/NIK/Modul 5 – Number Systems.md",
