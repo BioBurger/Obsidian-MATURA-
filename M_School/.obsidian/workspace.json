@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a267c0ff6b1a1a9",
+        "id": "5d558a65250634b2",
         "type": "tabs",
         "children": [
           {
-            "id": "7dfc24c27021ea5d",
+            "id": "ce1ebeda27f69f1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "SŠ/FIZ/Drawing 2026-04-11 21.06.40.excalidraw.md"
+                "file": "SŠ/NPB/User.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-11 21.06.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "User"
             }
           }
         ]
@@ -182,8 +184,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dfc24c27021ea5d",
+  "active": "ce1ebeda27f69f1d",
   "lastOpenFiles": [
+    "SŠ/NPB/Cursors.md",
+    "SŠ/NPB/User.md",
+    "SŠ/NPB/Triggers.md",
+    "SŠ/NPB/Roles.md",
+    "SŠ/NPB/Procedures.md",
+    "SŠ/NPB/Privileges.md",
+    "SŠ/NPB/Indexs.md",
+    "SŠ/NPB/Functions.md",
+    "SŠ/NPB/Napredni DML.md",
     "SŠ/FIZ/Drawing 2026-04-11 21.06.40.excalidraw.md",
     "SŠ/FIZ/Drawing 2026-03-04 20.07.59.excalidraw.md",
     "SŠ/MAT/Vektorji.md",
@@ -203,17 +214,8 @@
     "SŠ/NIK/Modul 15 – Application Layer.md",
     "SŠ/NIK/Modul 14 – Transport Layer.md",
     "SŠ/NIK/Modul 9 – Address Resolution.md",
-    "SŠ/NIK/Modul 8 – Network Layer.md",
-    "SŠ/NIK/Modul 7 – Ethernet Switching.md",
-    "SŠ/NIK/Modul 2 – Basic Switch and End Device Configuration.md",
-    "SŠ/NIK/Modul 13 – ICMP.md",
-    "SŠ/NIK/Modul 12 – IPv6 Addressing.md",
-    "SŠ/NIK/Modul 11 – IPv4 Addressing.md",
-    "SŠ/NIK/Modul 10 – Basic Router Configuration.md",
     "SŠ/NIK",
-    "SŠ/SLO/Slovenščina – Slovnica za Poklicno Maturo.md",
     "SŠ/SLO",
-    "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md",
     "Pasted Image 20260310223055_414.png",
     "Pasted Image 20260310200021_543.png",
     "Pasted Image 20260310191721_498.png",
