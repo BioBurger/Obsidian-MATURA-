@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/NPB/Roles.md",
+                "file": "SŠ/NPB/Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles"
+              "title": "Functions"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "ce1ebeda27f69f1d",
   "lastOpenFiles": [
+    "SŠ/NPB/User.md",
+    "SŠ/NPB/Roles.md",
     "SŠ/NPB/Functions.md",
     "SŠ/NPB/Cursors.md",
     "SŠ/NPB/Posebnosti + Dodatki.md",
     "SŠ/NPB/Napredni DML.md",
-    "SŠ/NPB/User.md",
     "SŠ/NPB/Triggers.md",
-    "SŠ/NPB/Roles.md",
     "SŠ/NPB/Procedures.md",
     "SŠ/NPB/Privileges.md",
     "SŠ/NPB/Indexs.md",
