@@ -11,14 +11,12 @@
             "id": "ce1ebeda27f69f1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SŠ/NPB/Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Functions"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-03 16.33.25.excalidraw"
             }
           }
         ]
@@ -184,11 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce1ebeda27f69f1d",
+  "active": "8bf5372bb2590418",
   "lastOpenFiles": [
+    "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md",
+    "SŠ/NPB/Functions.md",
     "SŠ/NPB/User.md",
     "SŠ/NPB/Roles.md",
-    "SŠ/NPB/Functions.md",
     "SŠ/NPB/Cursors.md",
     "SŠ/NPB/Posebnosti + Dodatki.md",
     "SŠ/NPB/Napredni DML.md",
@@ -213,7 +212,6 @@
     "SŠ/NIK/Modul 17 – Build a Small Network.md",
     "SŠ/NIK/Modul 16 – Network Security Fundamentals.md",
     "SŠ/NIK/Modul 15 – Application Layer.md",
-    "SŠ/NIK/Modul 14 – Transport Layer.md",
     "SŠ/NIK",
     "SŠ/SLO",
     "Pasted Image 20260310223055_414.png",
