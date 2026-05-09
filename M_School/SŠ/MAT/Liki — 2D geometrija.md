@@ -64,6 +64,7 @@ $$S=r^2\pi, \quad o=2r\pi=d\pi$$
 $$S_{\text{izsek}}=\frac{r^2\varphi}{2}, \quad l_{\text{loka}}=r\varphi$$
 $$\text{V stopinjah: } S_{\text{izsek}}=\frac{r^2\pi\varphi°}{360°}$$
 
+$$\text{Dolžina izseka: } l_{\text{izsek}}=\frac{r\pi\varphi°}{180°}$$
 ### Krožni odsek
 $$S_{\text{odsek}}=\frac{r^2}{2}(\varphi-\sin\varphi)$$
 

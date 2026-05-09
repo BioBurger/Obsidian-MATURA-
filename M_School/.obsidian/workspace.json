@@ -11,12 +11,14 @@
             "id": "2dbd91a68c891bf4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md"
+                "file": "SŠ/MAT/Liki — 2D geometrija.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-03 16.33.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "Liki — 2D geometrija"
             }
           }
         ]
@@ -182,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73aae8cfc7b94e5f",
+  "active": "2dbd91a68c891bf4",
   "lastOpenFiles": [
+    "SŠ/MAT/Geometrisko zaporedje.md",
     "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md",
     "Pasted Image 20260423222027_299.png",
     "SŠ/MAT/Normalna-porazdelitev.md",
@@ -194,7 +197,6 @@
     "SŠ/MAT/Kombinacije.md",
     "SŠ/MAT/Integrali.md",
     "SŠ/MAT/Indukcija.md",
-    "SŠ/MAT/Geometrisko zaporedje.md",
     "SŠ/MAT/Funkcije.md",
     "SŠ/MAT/Eksponentna in logaritemska funkcija.md",
     "SŠ/MAT/Bernoullijeva-formula.md",
