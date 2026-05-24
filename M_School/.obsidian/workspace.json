@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Stožnice.md",
+                "file": "SŠ/MAT/Funkcije.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stožnice"
+              "title": "Funkcije"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "2dbd91a68c891bf4",
   "lastOpenFiles": [
+    "SŠ/MAT/Stožnice.md",
     "SŠ/MAT/Vektorji.md",
     "SŠ/MAT/Kompleksna števila.md",
     "SŠ/MAT/Kombinatorika.md",
@@ -204,7 +205,6 @@
     "SŠ/MAT/Aritmetično zaporedje.md",
     "SŠ/MAT/Preslikave — 2D geometrija.md",
     "SŠ/MAT/Statistika.md",
-    "SŠ/MAT/Stožnice.md",
     "SŠ/MAT/Telesa — 3D geometrija.md",
     "SŠ/MAT/Verjetnostni račun.md",
     "SŠ/FIZ/Drawing 2026-04-11 21.06.40.excalidraw.md",
