@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Funkcije.md",
+                "file": "SŠ/MAT/Liki — 2D geometrija.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funkcije"
+              "title": "Liki — 2D geometrija"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "2dbd91a68c891bf4",
   "lastOpenFiles": [
+    "SŠ/MAT/Funkcije.md",
     "SŠ/MAT/Stožnice.md",
     "SŠ/MAT/Vektorji.md",
     "SŠ/MAT/Kompleksna števila.md",
@@ -199,7 +200,6 @@
     "SŠ/MAT/Kombinacije.md",
     "SŠ/MAT/Integrali.md",
     "SŠ/MAT/Indukcija.md",
-    "SŠ/MAT/Funkcije.md",
     "SŠ/MAT/Eksponentna in logaritemska funkcija.md",
     "SŠ/MAT/Bernoullijeva-formula.md",
     "SŠ/MAT/Aritmetično zaporedje.md",
