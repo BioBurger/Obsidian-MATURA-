@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/SLO/Slovenščina – Slovnica za Poklicno Maturo.md",
+                "file": "SŠ/MAT/Aritmetično zaporedje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slovenščina – Slovnica za Poklicno Maturo"
+              "title": "Aritmetično zaporedje"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SŠ/MAT/Stožnice.md",
+                "file": "SŠ/MAT/Kombinacije.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stožnice"
+              "title": "Kombinacije"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +198,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d8b707ee1646de7",
+  "active": "2dbd91a68c891bf4",
   "lastOpenFiles": [
+    "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md",
+    "SŠ/NIK/Modul 15 – Application Layer.md",
+    "SŠ/NIK/Modul 16 – Network Security Fundamentals.md",
+    "SŠ/SLO/Slovenščina – Slovnica za Poklicno Maturo.md",
+    "SŠ/MAT/Kombinacije.md",
+    "SŠ/MAT/Normalna-porazdelitev.md",
+    "SŠ/MAT/Permuntacije.md",
+    "SŠ/MAT/Stožnice.md",
     "SŠ/MAT/Odvodi — Višja raven splošne mature.md",
     "SŠ/MAT/Funkcije.md",
     "SŠ/MAT/Statistika.md",
     "SŠ/MAT/Bernoullijeva-formula.md",
-    "SŠ/MAT/Kombinacije.md",
     "SŠ/MAT/Obrestno-obrestni račun.md",
     "SŠ/MAT/Aritmetično zaporedje.md",
     "SŠ/MAT/Vektorji.md",
@@ -214,23 +220,16 @@
     "SŠ/SLO/ref/P181-A101-1-1.pdf",
     "SŠ/SLO/ref/P181-A101-1-3.pdf",
     "SŠ/SLO/ref",
-    "SŠ/SLO/Slovenščina – Slovnica za Poklicno Maturo.md",
     "SŠ/MAT/Liki — 2D geometrija.md",
-    "SŠ/MAT/Stožnice.md",
     "SŠ/MAT/Kompleksna števila.md",
     "SŠ/MAT/Kombinatorika.md",
     "SŠ/MAT/Geometrisko zaporedje.md",
-    "SŠ/MAT/Pomožne/Drawing 2026-03-03 16.33.25.excalidraw.md",
     "Pasted Image 20260423222027_299.png",
-    "SŠ/MAT/Normalna-porazdelitev.md",
     "SŠ/MAT/Kotne funkcije.md",
     "SŠ/MAT/Integrali.md",
     "SŠ/MAT/Indukcija.md",
     "SŠ/MAT/Eksponentna in logaritemska funkcija.md",
     "SŠ/MAT/Telesa — 3D geometrija.md",
-    "SŠ/MAT/Verjetnostni račun.md",
-    "SŠ/FIZ/Drawing 2026-04-11 21.06.40.excalidraw.md",
-    "SŠ/FIZ/Drawing 2026-03-04 20.07.59.excalidraw.md",
     "Pasted Image 20260412005733_952.png",
     "SŠ/NIK/Untitled",
     "SŠ/NIK",
