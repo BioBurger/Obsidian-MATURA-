@@ -11,10 +11,12 @@
             "id": "eae02d2ba8860ac9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "SŠ/MAT/Mature/2010 Spomladanski.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2010 Spomladanski"
             }
           }
         ]
@@ -184,6 +186,8 @@
   },
   "active": "eae02d2ba8860ac9",
   "lastOpenFiles": [
+    "SŠ/MAT/Mature/2010 Spomladanski.md",
+    "SŠ/FIZ/Drawing 2026-03-04 20.07.59.excalidraw.md",
     "Pasted Image 20260309174614_058.png",
     "Pasted Image 20260309173228_400.png",
     "Pasted Image 20260309172925_675.png",
@@ -215,7 +219,6 @@
     "SŠ/MAT/Kotne funkcije.md",
     "SŠ/MAT/Integrali.md",
     "SŠ/MAT/Indukcija.md",
-    "SŠ/MAT/Eksponentna in logaritemska funkcija.md",
     "Pasted Image 20260412005733_952.png",
     "SŠ/NIK/Untitled",
     "SŠ/NIK",
@@ -225,7 +228,6 @@
     "Pasted Image 20260310191721_498.png",
     "Pasted Image 20260310185547_859.png",
     "Pasted Image 20260310184843_866.png",
-    "Pasted Image 20260310183930_155.png",
     "SŠ/MAT/Mature",
     "SŠ/RVP/Snovi/Preprosta naloga.canvas",
     "SŠ/RVP/Snovi/Ojačevalnik osnove.canvas",
